@@ -1,0 +1,39 @@
+province,province_short,municipality_city,facility_count,available_score_count,composite_score_100,service_inventory_score_0_2,equipment_readiness_metric_pct,equipment_readiness_score_0_2,cold_chain_score_0_2,philhealth_status_score_0_2,referral_efficiency_metric_pct,data_reporting_metric_pct,data_quality_metric_pct,high_priority_gap_count,medium_priority_gap_count,low_priority_gap_count,top_5_topic_tags,qc_issue_count,source_file
+Lanao del Sur,LDS,Buadiposo-Buntong,5,7,81.4,2,95.2,2,2,0.4,,91,100,3,3,2,Equipment|Infrastructure|HR|Data Systems|PhilHealth,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Marantao,34,7,73.9,1,95,2,1.4,2,,95,95,8,0,0,Equipment|Immunization|Accreditation|Data Systems|PhilHealth,2,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Wao,26,7,58.8,2,100,2,0.2,0.1,,100,100,2,6,0,Infrastructure|Governance|Accreditation|Equipment|HR,5,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Marawi City,28,7,58.7,0.1,,,2,0.1,,76.5,79.2,6,2,0,Equipment|Governance|Data Systems|Infrastructure|NCD,0,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Poona Bayabao,26,7,58.2,2,91.6,2,0,0.2,,90,90,4,3,0,Equipment|HR|Immunization|NCD|Data Systems,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Lumba-Bayabao,39,7,57.9,2,90.8,2,0.1,0.1,,98,100,3,5,0,Infrastructure|Immunization|Referral|WASH|Equipment,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Piagapo,37,7,57.7,2,51.4,1,1,0.1,,100,100,9,1,0,Referral|GIDA Access|Governance|Infrastructure|Emergency/Transport,4,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Tagoloan Ii,5,7,55.7,2,50,1,0.4,0.4,,90,100,5,1,0,Governance|Infrastructure|Emergency/Transport|Equipment|Immunization,0,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Bubong,36,7,50.8,1,91.7,2,0.1,0.1,,95,95,5,3,1,Data Systems|Equipment|Immunization|Infrastructure|Referral,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Amai Manabilang,17,3,50,1,,,2,,,,,6,2,1,Referral|Immunization|Data Systems|Accreditation|Emergency/Transport,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Saguiaran,30,5,45,1.4,77.3,1,0.1,2,,,,0,0,0,Referral|Immunization|Governance|TB|Data Systems,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Mulondo,26,7,44,2,31.5,0,0.1,0.1,,100,100,5,1,2,Infrastructure|Governance|Immunization|HR|Equipment,0,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Masiu,35,7,43.7,2,66.7,1,0.1,0.1,,100,50,6,2,0,GIDA Access|Infrastructure|PhilHealth|Referral|Accreditation,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Kapai,19,5,32.6,2,79.8,1,0.2,0.1,,,,8,0,0,Equipment|Immunization|HR|Cold Chain|Infrastructure,1,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Ditsaan-Ramain,0,0,,,,,,,,,,5,0,0,Governance|Infrastructure|TB|WASH|Data Systems,2,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Lanao del Sur,0,0,,,,,,,,,,9,0,0,Equipment|Infrastructure|PhilHealth|Immunization|Data Systems,3,lanaodelsur_provincial_dashboard.xlsx
+Lanao del Sur,LDS,Tamparan,44,0,,,,,,,,,,0,0,0,Infrastructure|Immunization|WASH|Data Systems|Equipment,3,lanaodelsur_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Parang,1,5,90,1,,,2,2,,100,100,1,1,0,Referral|Equipment|Immunization|Infrastructure|Data Systems,4,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Sultan Mastura,13,7,65.4,1,95,2,2,0.2,,100,100,5,1,2,Equipment|Immunization|Cold Chain|Governance|HR,1,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Sultan Kudarat,39,7,60.1,2,93.1,2,0.3,0.2,,100,100,5,3,0,Equipment|Infrastructure|HR|Immunization|PhilHealth,3,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Northern Kabuntalan,17,7,55,1,100,2,0.6,0.1,,80,100,2,3,3,Equipment|Data Systems|Infrastructure|PhilHealth|Immunization,9,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Upi,29,6,51.1,1.9,,,0,0.3,,90,100,2,5,3,Data Systems|Governance|Immunization|Referral|Equipment,5,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Matanog,8,7,46.4,1,73.2,1,0.2,0.2,,95.1,95.8,5,3,0,Data Systems|Equipment|Infrastructure|Emergency/Transport|Governance,2,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Datu Odin Sinsuat,36,7,46,2,31.2,0,0.2,0.2,,97,98,14,2,0,Immunization|Infrastructure|Data Systems|Governance|Referral,1,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Talitay,9,7,45.2,0.1,5.7,0,2,0.2,,100,100,5,2,1,Equipment|Infrastructure|Referral|Immunization|Emergency/Transport,1,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Datu Blah T. Sinsuat,13,7,45.1,1,81.8,1,0.2,0.2,,95,95,8,0,0,HR|Equipment|Immunization|Infrastructure|PhilHealth,1,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Barira,14,7,44.9,1,80.7,1,0.1,0.1,,100,100,8,0,0,Immunization|Infrastructure|Data Systems|Emergency/Transport|HR,2,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,Cotabato City,47,6,36.9,0.2,100,2,0.2,2,,32.1,,5,2,1,Infrastructure|Immunization|Referral|Equipment|Accreditation,0,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Sur,MDS,Datu Paglas,23,8,51.4,1,83.5,1,0.1,0.1,,97,98,5,3,0,Immunization|Equipment|Accreditation|Governance|Infrastructure,0,maguindanaodelsur_provincial_dashboard.xlsx
+Maguindanao del Sur,MDS,Shariff Aguak,13,6,51.3,1,5.5,0,,0.2,,100,100,3,4,1,HR|Infrastructure|TB|Immunization|Referral,1,maguindanaodelsur_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Kapalawan,7,7,57.1,1,90,2,0,0,,100,100,6,0,0,Infrastructure|Equipment|Immunization|Referral|Emergency/Transport,3,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Nabalawag,7,7,57.1,1,63,1,2,0,,100,95,6,2,0,Infrastructure|Accreditation|Equipment|Governance|HR,1,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Ligawasan,7,7,54.1,1,75,1,0.6,0,,100,100,3,5,0,Equipment|Infrastructure|Immunization|Accreditation|Governance,1,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Kadayangan,8,7,51.8,2,76.6,1,0.2,0,,100,100,8,0,0,Infrastructure|Immunization|Accreditation|Emergency/Transport|Equipment,1,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Malidegao,8,7,51.8,1,93.8,2,0.2,0,,98.1,100,2,6,0,HR|Infrastructure|Equipment|GIDA Access|Immunization,0,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Old Kaabakan,8,7,50,2,87.8,1,0,0,,100,100,8,0,0,Infrastructure|Accreditation|Governance|Immunization|Emergency/Transport,1,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Tugunan,9,7,44.4,1,62.5,1,0.2,0,,100,100,6,2,0,Equipment|Accreditation|WASH|Data Systems|Governance,3,sga_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,Pahamuddin,12,6,33.3,0,75,1,0,0,,100,86.9,8,2,1,Governance|Accreditation|PhilHealth|Equipment|HR,1,sga_provincial_dashboard.xlsx

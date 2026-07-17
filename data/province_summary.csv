@@ -1,0 +1,5 @@
+province,short,dashboard_lgus,scored_lgus,facility_inventory_records,rhu_count,bhs_count,hospital_count,avg_composite_score_100,philhealth_accredited_facilities,functional_cold_chain_facilities,high_priority_gap_count,medium_priority_gap_count,low_priority_gap_count,top_5_topic_tags,qc_issue_count,source_file
+Lanao del Sur,LDS,17,14,407,25,139,2,54.88571428571429,48,67,84,29,6,Infrastructure|Immunization|Equipment|Referral|Governance,27,lanaodelsur_provincial_dashboard.xlsx
+Maguindanao del Norte,MDN,11,11,226,11,137,3,53.28181818181818,26,22,60,22,10,Immunization|Infrastructure|Equipment|Referral|Data Systems,29,maguindanaodelnorte_provincial_dashboard.xlsx
+Maguindanao del Sur,MDS,2,2,36,2,28,0,51.34999999999999,2,1,8,7,1,HR|Infrastructure|Immunization|TB|Equipment,1,maguindanaodelsur_provincial_dashboard.xlsx
+Special Geographic Area (SGA),SGA,8,8,66,6,57,0,49.95,0,6,47,17,1,Infrastructure|Equipment|Accreditation|Immunization|Governance,11,sga_provincial_dashboard.xlsx

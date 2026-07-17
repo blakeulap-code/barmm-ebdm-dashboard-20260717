@@ -1,0 +1,5 @@
+province,analysis_lgus,dashboard_lgus,scored_lgus,analysis_facilities_mapped,dashboard_facility_inventory,facility_count_delta_analysis_minus_dashboard,analysis_priority_gaps_logged,dashboard_high_priority_gaps,analysis_plan_actions,dashboard_plan_rows,total_catchment_reported_analysis,coverage_note,dashboard_priority_gap_rows,dashboard_improvement_plan_rows,dashboard_qc_flags
+Lanao del Sur,17,17,14,442,407,35,129,84,140,,"760,334",Analysis overview reports broader facility coverage than the dashboard score source.,128,145,27
+Maguindanao del Norte,14,11,11,300,226,74,140,60,92,,"1,137,983",Analysis overview reports broader facility coverage than the dashboard score source.,120,63,29
+Maguindanao del Sur,,2,2,,36,,,8,,,,No matching analysis overview file provided; dashboard source covers this province only.,94,10,1
+Special Geographic Area (SGA),8,8,8,105,66,39,66,47,67,,"294,953",Analysis overview reports broader facility coverage than the dashboard score source.,66,67,11
