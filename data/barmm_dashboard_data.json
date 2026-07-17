@@ -1706,6 +1706,512 @@
       "weighted_avg_confidence": 0.6583333333333332
     }
   ],
+  "province_themes": [
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Infrastructure",
+      "record_count": 99,
+      "avg_confidence": 0.6542424242424242,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Immunization",
+      "record_count": 88,
+      "avg_confidence": 0.7011363636363637,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Equipment",
+      "record_count": 81,
+      "avg_confidence": 0.6737037037037037,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Referral",
+      "record_count": 80,
+      "avg_confidence": 0.7072499999999999,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Governance",
+      "record_count": 68,
+      "avg_confidence": 0.6851470588235294,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Data Systems",
+      "record_count": 66,
+      "avg_confidence": 0.5848484848484847,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "PhilHealth",
+      "record_count": 60,
+      "avg_confidence": 0.6555,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "HR",
+      "record_count": 58,
+      "avg_confidence": 0.6562068965517242,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Emergency/Transport",
+      "record_count": 45,
+      "avg_confidence": 0.7726666666666666,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "TB",
+      "record_count": 37,
+      "avg_confidence": 0.6875675675675677,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "WASH",
+      "record_count": 37,
+      "avg_confidence": 0.5843243243243245,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Revenue",
+      "record_count": 34,
+      "avg_confidence": 0.6420588235294117,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Accreditation",
+      "record_count": 30,
+      "avg_confidence": 0.755,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Cold Chain",
+      "record_count": 29,
+      "avg_confidence": 0.6568965517241379,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "GIDA Access",
+      "record_count": 28,
+      "avg_confidence": 0.7307142857142858,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "NCD",
+      "record_count": 23,
+      "avg_confidence": 0.6134782608695651,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Mental Health",
+      "record_count": 15,
+      "avg_confidence": 0.7526666666666666,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Lanao del Sur",
+      "topic_tag": "Dental/Oral Health",
+      "record_count": 8,
+      "avg_confidence": 0.6612499999999999,
+      "province_short": "LDS"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Immunization",
+      "record_count": 70,
+      "avg_confidence": 0.7011428571428571,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Infrastructure",
+      "record_count": 68,
+      "avg_confidence": 0.7088235294117646,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Equipment",
+      "record_count": 65,
+      "avg_confidence": 0.6970769230769231,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Referral",
+      "record_count": 56,
+      "avg_confidence": 0.7162499999999999,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Data Systems",
+      "record_count": 54,
+      "avg_confidence": 0.67,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Governance",
+      "record_count": 43,
+      "avg_confidence": 0.7555813953488373,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "HR",
+      "record_count": 43,
+      "avg_confidence": 0.6506976744186047,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Emergency/Transport",
+      "record_count": 37,
+      "avg_confidence": 0.7594594594594595,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "PhilHealth",
+      "record_count": 37,
+      "avg_confidence": 0.6943243243243242,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Accreditation",
+      "record_count": 30,
+      "avg_confidence": 0.7586666666666666,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "TB",
+      "record_count": 26,
+      "avg_confidence": 0.7019230769230769,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Revenue",
+      "record_count": 24,
+      "avg_confidence": 0.695,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Cold Chain",
+      "record_count": 23,
+      "avg_confidence": 0.7491304347826089,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "NCD",
+      "record_count": 14,
+      "avg_confidence": 0.7078571428571429,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "WASH",
+      "record_count": 14,
+      "avg_confidence": 0.6585714285714286,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "GIDA Access",
+      "record_count": 8,
+      "avg_confidence": 0.8587500000000001,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Mental Health",
+      "record_count": 6,
+      "avg_confidence": 0.8766666666666666,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "topic_tag": "Dental/Oral Health",
+      "record_count": 4,
+      "avg_confidence": 0.6875,
+      "province_short": "MDN"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "HR",
+      "record_count": 43,
+      "avg_confidence": 0.5883720930232559,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Infrastructure",
+      "record_count": 40,
+      "avg_confidence": 0.55375,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Immunization",
+      "record_count": 23,
+      "avg_confidence": 0.7147826086956522,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "TB",
+      "record_count": 17,
+      "avg_confidence": 0.5864705882352941,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Equipment",
+      "record_count": 16,
+      "avg_confidence": 0.729375,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Governance",
+      "record_count": 12,
+      "avg_confidence": 0.7966666666666667,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Data Systems",
+      "record_count": 10,
+      "avg_confidence": 0.7459999999999999,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Referral",
+      "record_count": 9,
+      "avg_confidence": 0.7444444444444444,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Accreditation",
+      "record_count": 8,
+      "avg_confidence": 0.705,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Cold Chain",
+      "record_count": 6,
+      "avg_confidence": 0.7516666666666666,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Emergency/Transport",
+      "record_count": 6,
+      "avg_confidence": 0.9,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "PhilHealth",
+      "record_count": 5,
+      "avg_confidence": 0.6599999999999999,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "NCD",
+      "record_count": 4,
+      "avg_confidence": 0.7125,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Revenue",
+      "record_count": 4,
+      "avg_confidence": 0.6749999999999999,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Dental/Oral Health",
+      "record_count": 2,
+      "avg_confidence": 0.715,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "GIDA Access",
+      "record_count": 2,
+      "avg_confidence": 0.62,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "Mental Health",
+      "record_count": 1,
+      "avg_confidence": 1,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "topic_tag": "WASH",
+      "record_count": 1,
+      "avg_confidence": 0.64,
+      "province_short": "MDS"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Infrastructure",
+      "record_count": 58,
+      "avg_confidence": 0.6955172413793103,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Equipment",
+      "record_count": 44,
+      "avg_confidence": 0.6604545454545454,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Accreditation",
+      "record_count": 40,
+      "avg_confidence": 0.6910000000000001,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Immunization",
+      "record_count": 36,
+      "avg_confidence": 0.6925000000000001,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Governance",
+      "record_count": 34,
+      "avg_confidence": 0.6144117647058824,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "HR",
+      "record_count": 31,
+      "avg_confidence": 0.582258064516129,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "PhilHealth",
+      "record_count": 27,
+      "avg_confidence": 0.717037037037037,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Referral",
+      "record_count": 24,
+      "avg_confidence": 0.6779166666666666,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Emergency/Transport",
+      "record_count": 22,
+      "avg_confidence": 0.6986363636363637,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "WASH",
+      "record_count": 18,
+      "avg_confidence": 0.6005555555555556,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Cold Chain",
+      "record_count": 15,
+      "avg_confidence": 0.6426666666666667,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Data Systems",
+      "record_count": 15,
+      "avg_confidence": 0.572,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Revenue",
+      "record_count": 14,
+      "avg_confidence": 0.6392857142857142,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "GIDA Access",
+      "record_count": 12,
+      "avg_confidence": 0.7383333333333333,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "TB",
+      "record_count": 12,
+      "avg_confidence": 0.75,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "NCD",
+      "record_count": 6,
+      "avg_confidence": 0.7016666666666667,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Dental/Oral Health",
+      "record_count": 4,
+      "avg_confidence": 0.595,
+      "province_short": "SGA"
+    },
+    {
+      "province": "Special Geographic Area (SGA)",
+      "topic_tag": "Mental Health",
+      "record_count": 2,
+      "avg_confidence": 0.655,
+      "province_short": "SGA"
+    }
+  ],
   "source_coverage": [
     {
       "province": "Lanao del Sur",
