@@ -6,6 +6,7 @@ Static dashboard snapshot generated 2026-07-17.
 
 - `index.html` - shareable static dashboard
 - `BARMM_EBDM_Consolidated_Dashboard_20260717.xlsx` - Excel dashboard workbook
+- `PER_PROVINCE_ANALYSIS_20260717.md` - source-bounded province-by-province narrative analysis
 - `data/` - sanitized summary CSV and JSON tables used by the dashboard
 
 ## Source Scope
